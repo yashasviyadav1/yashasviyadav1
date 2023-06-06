@@ -1,4 +1,4 @@
-## My self $Yashasvi$ $Yadav$ :)
+## My self $Yashasvi$ $Yadav$ 
 
 Below are a few Repositories links that i have created, which might be helpful :- 
 
