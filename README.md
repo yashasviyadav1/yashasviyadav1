@@ -1,15 +1,15 @@
 ## My self $Yashasvi$ $Yadav$ 
 
-Below are a few Repositories links that i have created, which might be helpful :- 
+Below are a few Repositories links that might be helpful for you :- 
 
-- For learning all Searching Sorting Techniques : [Repo Link](https://github.com/yashasviyadav1/Searching-Sorting)
-- For learning about Graphs : [Repo Link](https://github.com/yashasviyadav1/Graphs)
-- My Solutions to Some of the DSA questions : [Repo Link](https://github.com/yashasviyadav1/DSA-Questions)
-- My LinkTree (to manage my music profiles) : [Repo Link](https://github.com/yashasviyadav1/linktree)
+- Learn to Search and Sort : [Repo Link](https://github.com/yashasviyadav1/Searching-Sorting)
+- Learn about Graphs : [Repo Link](https://github.com/yashasviyadav1/Graphs)
+- My Solutions to some DSA questions : [Repo Link](https://github.com/yashasviyadav1/DSA-Questions)
+- My LinkTree (to my music) : [Repo Link](https://github.com/yashasviyadav1/linktree)
 
 College Related repositories 
-- For Java Material : [Repo Link](https://github.com/yashasvi242/4th-Sem-Java-Codes)
-- For C Material : [Repo Link](https://github.com/yashasvi242/4th-Sem-C-Codes)
+- Learn Java : [Repo Link](https://github.com/yashasvi242/4th-Sem-Java-Codes)
+- Learn C : [Repo Link](https://github.com/yashasvi242/4th-Sem-C-Codes)
 
 --------
 <!---
