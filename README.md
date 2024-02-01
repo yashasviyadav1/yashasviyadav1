@@ -3,8 +3,9 @@
 
 #### Hi, this is $Yashasvi Yadav$, below are few repositories that might be helpful :-  
 ---
-### My Personal Projects :- 
+### My Projects :- 
 - `GrooveUp music` : full stack music web application (MERN) : [Repository](https://github.com/yashasviyadav1/grooveup-music)
+- `Recipe Finder` : react based web application to fetch recipes through API : [Repository](https://github.com/yashasviyadav1/recipe-webapp)
 - `Task.me` : a single page task manager (HTML + CSS + JS) : [Repository](https://github.com/yashasviyadav1/task-manager)
 
 ---
