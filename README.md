@@ -10,7 +10,7 @@
 
 ---
 ### Notes :-
-- Java Notes : [Repository](https://github.com/yashasvi242/4th-Sem-Java-Codes)
+- Java Notes : [Repository](https://github.com/yashasviyadav1/java-notes)
 - C Notes : [Repository](https://github.com/yashasvi242/4th-Sem-C-Codes)
 - DSA Solutions : [Repository](https://github.com/yashasviyadav1/DSA-Questions)
 
