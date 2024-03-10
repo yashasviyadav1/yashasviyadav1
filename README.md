@@ -7,7 +7,7 @@
 - `Track Treasury`: full stack finance management web application (MERN) : [Repository](https://github.com/yashasviyadav1/track-treasury) 
 - `GrooveUp music` : full stack music web application (MERN) : [Repository](https://github.com/yashasviyadav1/grooveup-music)
 - `Recipe Finder` : react based web application to fetch recipes through API : [Repository](https://github.com/yashasviyadav1/recipe-webapp)
-- `Task.me` : a single page task manager (HTML + CSS + JS) : [Repository](https://github.com/yashasviyadav1/task-manager)
+
 
 ---
 ### Notes :-
