@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=yashasviyadav1)
 
-#### Hi, this is $Yashasvi Yadav$, below are few repositories that might be helpful :-  
+#### Hi, this is $Yashasvi Yadav$, final year BE-CSE student :-  
 ---
 ### My Projects :- 
 - `Track Treasury`: full stack finance management web application (MERN) : [Repository](https://github.com/yashasviyadav1/track-treasury) 
