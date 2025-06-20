@@ -7,11 +7,11 @@ Dummy Personal Website : [Visit](https://yashasvi-yadav.jimdosite.com/)
 -->
 Here are some quick links...
 
-My Curricular Projects ~
-[Track Treasury](https://github.com/yashasviyadav1/track-treasury) · [GrooveUp music](https://github.com/yashasviyadav1/grooveup-music) · [Angular To-Do](https://github.com/yashasviyadav1/angular-task-manager)
+All Projects ~
+[Track Treasury](https://github.com/yashasviyadav1/track-treasury) · [GrooveUp music](https://github.com/yashasviyadav1/grooveup-music) · [Angular To-Do](https://github.com/yashasviyadav1/angular-task-manager)  · [TetraLink](https://github.com/yashasviyadav1/tetraLink/)
 
 
-My Beginner Notes ~
+Notes ~
 [Java Notes](https://github.com/yashasviyadav1/java-notes) · [C Notes](https://github.com/yashasvi242/4th-Sem-C-Codes)  · [DSA Solutions](https://github.com/yashasviyadav1/DSA-Questions)
 
 
