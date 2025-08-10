@@ -8,7 +8,7 @@ Dummy Personal Website : [Visit](https://yashasvi-yadav.jimdosite.com/)
 Here are some quick links...
 
 All Projects ~
-[Track Treasury](https://github.com/yashasviyadav1/track-treasury) · [GrooveUp music](https://github.com/yashasviyadav1/grooveup-music) · [Angular To-Do](https://github.com/yashasviyadav1/angular-task-manager)  · [TetraLink](https://github.com/yashasviyadav1/tetraLink/)
+[Track Treasury](https://github.com/yashasviyadav1/track-treasury) · [GrooveUp music](https://github.com/yashasviyadav1/grooveup-music) · [Angular To-Do](https://github.com/yashasviyadav1/angular-task-manager)  · [TetraLink](https://github.com/yashasviyadav1/tetraLink/)  · [Extendible Hashing Visualizer](https://github.com/yashasviyadav1/extendible-hashing-visualizer/tree/main)
 
 
 Notes ~
