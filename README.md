@@ -1,18 +1,20 @@
 
 ![](https://komarev.com/ghpvc/?username=yashasviyadav1)
 
-#### Hi,
+#### <u><i>Hi, some quick links are belowww ... </i></u>
 <!--
 Dummy Personal Website : [Visit](https://yashasvi-yadav.jimdosite.com/)
 -->
-Here are some quick links...
-
-All Projects ~
-[Track Treasury](https://github.com/yashasviyadav1/track-treasury) · [GrooveUp music](https://github.com/yashasviyadav1/grooveup-music) · [TetraLink](https://github.com/yashasviyadav1/tetraLink/)  · [Extendible Hashing Visualizer](https://github.com/yashasviyadav1/extendible-hashing-visualizer/tree/main)
 
 
-Notes ~
-[Java Notes](https://github.com/yashasviyadav1/java-notes) · [C Notes](https://github.com/yashasvi242/4th-Sem-C-Codes)  · [DSA Solutions](https://github.com/yashasviyadav1/DSA-Questions)
+Recent Projects (latest on top) :-
+- [Extendible Hashing / Hash-Table Visualizer](https://github.com/yashasviyadav1/extendible-hashing-visualizer/)
+- [TetraLink](https://github.com/yashasviyadav1/tetraLink/)
+- [Track Treasury](https://github.com/yashasviyadav1/track-treasury)
+- [GrooveUp music](https://github.com/yashasviyadav1/grooveup-music)
+
+
+<i>Notes : [Java Notes](https://github.com/yashasviyadav1/java-notes) · [C Notes](https://github.com/yashasvi242/4th-Sem-C-Codes)  · [DSA Solutions](https://github.com/yashasviyadav1/DSA-Questions)</i>
 
 
 <!--
